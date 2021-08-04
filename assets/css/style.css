@@ -1,0 +1,44 @@
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 5em;
+}
+ul .twitter {
+  color: #1da1f2;
+}
+ul .behance {
+  color: #1769ff;
+}
+ul .facebook {
+  color: #1877f2;
+}
+ul .vimeo {
+  color: #1ab7ea;
+}
+ul .unknown1 {
+  color: blue;
+}
+ul .airbnb {
+  color: #fd5c63;
+}
+ul .amazon {
+  color: #ff9900;
+}
+ul .android {
+  color: #a4c639;
+}
+ul .stack-overflow {
+  color: #f48024;
+}
+ul .ubuntu {
+  color: #dd4814;
+}
+ul .github {
+  color: #4078c0;
+}
+ul .javascript {
+  color: #f7df1e;
+}
+
+/*# sourceMappingURL=style.css.map */
